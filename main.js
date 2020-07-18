@@ -64,7 +64,7 @@ alert(setReplace("Vai Japão", "Japão", "Brasil"));
 
 
 function botao(){
-    document.getElementById("clicou").innerHTML = "<b> Obrigado seu pau mandado </b>";
+    document.getElementById("clicou").innerHTML = "<b> Obrigado </b>";
 }
 
 function redirecionar(){
@@ -74,7 +74,7 @@ function redirecionar(){
 
 function trocar(elemento){
     //document.getElementById("mousemove").innerHTML = "Passou o mouse seu baitola";
-    elemento.innerHTML = "Passou o mouse seu baitola";
+    elemento.innerHTML = "Passou o mouse ";
 }
 
 function voltar(elemento){
